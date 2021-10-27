@@ -1,0 +1,50 @@
+[
+  {
+    "type":"Feature",
+    "properties":{
+      "user":"user",
+      "time":"Tue Oct 19 12:00:00 +0000 2021",
+      "text":"text"
+    },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[
+        1.5,
+        1.5
+      ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+      "fill":"rgb(0, 0, 0)"
+    },
+    "geometry":{
+      "type":"Polygon",
+      "coordinates":[
+        [
+          [
+            1.0,
+            1.0
+          ],
+          [
+            2.0,
+            1.0
+          ],
+          [
+            2.0,
+            2.0
+          ],
+          [
+            1.0,
+            2.0
+          ],
+          [
+            1.0,
+            1.0
+          ]
+        ]
+      ]
+    }
+  }
+]

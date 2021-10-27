@@ -1,0 +1,45 @@
+{
+  "created_at": "Tue Oct 26 12:00:00 +0000 2021",
+  "id": 123456789,
+  "id_str": "123456789",
+  "text": "some text",
+  "user": {
+    "id": 123456789,
+    "id_str": "123456789",
+    "name": "user name",
+    "screen_name": "screen user name"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "aaaaffff",
+    "place_type": "poi",
+    "name": "name",
+    "full_name": "full name",
+    "country_code": "country code",
+    "country": "country",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ]
+    }
+  }
+}
