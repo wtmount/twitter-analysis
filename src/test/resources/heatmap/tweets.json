@@ -1,0 +1,32 @@
+[
+  {
+    "type":"Feature",
+    "properties":{
+      "user":"user1",
+      "time":"Tue Oct 19 12:00:00 +0000 2021",
+      "text":"text1"
+    },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+      "user":"user2",
+      "time":"Tue Oct 19 12:30:00 +0000 2021",
+      "text":"text2"
+    },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[
+        2.0,
+        2.0
+      ]
+    }
+  }
+]
